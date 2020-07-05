@@ -5,7 +5,7 @@ Hide your files in image!
 -----
 
 <p align="center">
-<img src="https://github.com/MRizaF/secret-image-maker/blob/images/Secret%20Image%20Maker%20-%20Icon.png" alt="Icon"/>
+<img src="https://github.com/MRizaF/Secret-Image-Maker/blob/master/Secret%20Image%20Maker%20-%20Icon.png" alt="Icon"/>
 </p>
 
 This time, I re-create one of my old app that I create in "Game Maker 8", by using "Python"
