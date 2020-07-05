@@ -16,4 +16,5 @@ This app can hide files in image ([steganography](https://en.wikipedia.org/wiki/
 
 There will be Secret Image Opener "Python" version too (if I'm in the mood for it), but for now just use the old opener in "Game Maker 8"
 
+
 *I'm using [wxPython](https://www.wxpython.org/) for gui, [WxFormBuilder](https://sourceforge.net/projects/wxformbuilder/) for designing gui and [7zip](https://www.7-zip.org/) for zipping files
