@@ -10,7 +10,7 @@ Hide your files in image!
 
 This time, I re-create one of my old app that I create in "Game Maker 8", by using "Python"
 
-You can find the old one here : [Secret Image Maker](https://gmindo.forumid.net/t1267-secret-image-maker)
+You can find the old one here : [Secret Image Maker + Opener](https://gmindo.forumid.net/t1267-secret-image-maker)
 
 This app can hide files in image ([steganography](https://en.wikipedia.org/wiki/Steganography)), like compressed files in zip, but this one hidden in image
 
