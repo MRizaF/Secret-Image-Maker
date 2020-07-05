@@ -14,7 +14,8 @@ You can find the old one here : [Secret Image Maker](https://gmindo.forumid.net/
 
 This app can hide files in image ([steganography](https://en.wikipedia.org/wiki/Steganography)), like compressed files in zip, but this one hidden in image
 
+To see and get the hidden files, you can use Winrar-like apps or my old Secret Image Opener in link before
+
 There will be Secret Image Opener "Python" version too (if I'm in the mood for it)
-For now just use the old opener in "Game Maker 8", or Winrar-like apps to see the hidden files
 
 *I'm using [wxPython](https://www.wxpython.org/) for gui, [WxFormBuilder](https://sourceforge.net/projects/wxformbuilder/) for designing gui and [7zip](https://www.7-zip.org/) for zipping files
