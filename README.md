@@ -3,19 +3,24 @@ Secret Image Maker
 
 Hide your files in image!
 -----
-
 <p align="center">
 <img src="https://github.com/MRizaF/Secret-Image-Maker/blob/master/assets/Secret%20Image%20Maker%20-%20Icon.png" alt="Icon"/>
 </p>
 
-This time, I re-create one of my old app that I create in "Game Maker 8", by using "Python"
+This program is made to hide files in images ([steganography](https://en.wikipedia.org/wiki/Steganography)). It works like archiving files in zip, but the files is hidden in image.
 
-You can find the old one here : [Secret Image Maker + Opener](https://gmindo.forumid.net/t1267-secret-image-maker)
+Run requirements
+-----
+- Install [Python](https://www.python.org/)
+- Install [wxPython](https://www.wxpython.org/)
 
-This app can hide files in image ([steganography](https://en.wikipedia.org/wiki/Steganography)), like compressed files in zip, but this one hidden in image
+Download this repository, then just execute "Secret Image Maker.py"
 
-To see and get the hidden files, you can use Winrar-like apps or my old Secret Image Opener in link before
+Authors
+-----
+- Mohammad Riza Farhandhy (rizafarhandi@gmail.com)
 
-There will be Secret Image Opener "Python" version too (if I'm in the mood for it)
+This program is 100% made by myself, with some of the code I got from designing in wxformbuilder and searching in google
 
-*I'm using [wxPython](https://www.wxpython.org/) for gui, [WxFormBuilder](https://sourceforge.net/projects/wxformbuilder/) for designing gui and [7zip](https://www.7-zip.org/) for zipping files
+License
+-----
