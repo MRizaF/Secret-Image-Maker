@@ -22,5 +22,5 @@ Authors
 
 This program is 100% made by myself, with some of the code I got from designing in wxformbuilder and searching in google
 
-
+-----
 Copyright © 2020 by Mohammad Riza Farhandhy
