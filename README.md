@@ -9,6 +9,8 @@ Hide your files in image!
 
 This program is made to hide files in images ([steganography](https://en.wikipedia.org/wiki/Steganography)). It works like archiving files in zip, but the files is hidden in image.
 
+![](https://github.com/MRizaF/Secret-Image-Maker/blob/image/SecretImageExplained.gif)
+
 Run requirements
 -----
 - Install [Python](https://www.python.org/)
