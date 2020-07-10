@@ -14,9 +14,9 @@ Run requirements
 - Install [Python](https://www.python.org/)
 - Install [wxPython](https://www.wxpython.org/)
 
-Download this repository, then just execute "Secret Image Maker.py"
+Download this repository, then just execute "Secret Image Maker.py", and create your secret image
 
-Authors
+Author
 -----
 - Mohammad Riza Farhandhy (rizafarhandi@gmail.com)
 
