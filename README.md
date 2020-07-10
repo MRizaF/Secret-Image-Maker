@@ -18,6 +18,8 @@ Run requirements
 
 Download this repository, then just execute "Secret Image Maker.py", and create your secret image
 
+![](https://github.com/MRizaF/Secret-Image-Maker/blob/image/CreateSecretImage.gif)
+
 Author
 -----
 - Mohammad Riza Farhandhy (rizafarhandi@gmail.com)
